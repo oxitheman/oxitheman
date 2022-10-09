@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning about ML
 - 💞️ I’m looking to collaborate on open source projects related to APIs or Machine learning
-- 📫 How to reach me -> oxi@duck.com or Oxi.#1591
+- 📫 How to reach me -> oxe@duck.com or Oxi.#1591
 
 
 
